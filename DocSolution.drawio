@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T14:18:35.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="5YFQJLy9DDf5Qyhd9oTB" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-21T14:23:17.817Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="y8bOVwJqy56ZJztOumOn" version="12.8.8" type="github">
   <diagram id="Wuma1OdAQkQ659eAzgwF" name="Page-1">
     <mxGraphModel dx="1113" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,7 +69,10 @@
           <mxGeometry x="425" y="475" width="260" height="110" as="geometry" />
         </mxCell>
         <mxCell id="E0IjVI45BpILvnkrQart-19" value="Local Server/Stoage device" style="html=1;fillColor=#e1d5e7;align=center;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="57.5" y="660" width="235" height="80" as="geometry" />
+          <mxGeometry x="57.5" y="660" width="235" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-21" value="Note&lt;br&gt;&lt;br&gt;Public: Tech, Study, Recip, Kouraku&lt;br&gt;&lt;br&gt;Private: Philsophy, Ecomics, Knowledge and time" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=10;fillColor=#f5f5f5;labelBackgroundColor=none;strokeColor=#666666;fontColor=#333333;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="363" y="610" width="397" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

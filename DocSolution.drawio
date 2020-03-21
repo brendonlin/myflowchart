@@ -1,11 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T14:00:55.697Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="swpYihjNTVwyIdubgxJS" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-21T14:18:35.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="5YFQJLy9DDf5Qyhd9oTB" version="12.8.8" type="github">
   <diagram id="Wuma1OdAQkQ659eAzgwF" name="Page-1">
-    <mxGraphModel dx="706" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E0IjVI45BpILvnkrQart-1" value="Object" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="110" height="50" as="geometry" />
+        <mxCell id="E0IjVI45BpILvnkrQart-1" value="Home: vscode" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="245" width="310" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-9" value="Nutstore" style="html=1;align=left;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-20" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0IjVI45BpILvnkrQart-4" target="E0IjVI45BpILvnkrQart-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-12" value="Local backup" style="html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="90" y="435" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-2" value="Outdoor:vscode" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="420" y="30" width="330" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;dashed=1;strokeWidth=2;" edge="1" parent="1" source="E0IjVI45BpILvnkrQart-3" target="E0IjVI45BpILvnkrQart-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="355" />
+              <mxPoint x="400" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-3" value="Public" style="html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-4" value="Private" style="html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="460" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-5" value="Public" style="html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-8" value="Github" style="html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-10" value="Nutstore" style="html=1;align=left;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="455" y="95" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-18" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;" edge="1" parent="1" source="E0IjVI45BpILvnkrQart-13" target="E0IjVI45BpILvnkrQart-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-13" value="Local backup" style="html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="455" y="260" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-14" value="Private" style="html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="485" y="285" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-15" value="Private Repo" style="html=1;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=link;dashed=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="E0IjVI45BpILvnkrQart-3" target="E0IjVI45BpILvnkrQart-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="310" as="sourcePoint" />
+            <mxPoint x="410" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-17" value="Outdoor Sotage" style="html=1;fillColor=#e1d5e7;align=center;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="425" y="475" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E0IjVI45BpILvnkrQart-19" value="Local Server/Stoage device" style="html=1;fillColor=#e1d5e7;align=center;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="660" width="235" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

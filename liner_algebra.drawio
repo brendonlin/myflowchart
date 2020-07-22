@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T08:35:58.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="Y-RwuSBjf_ZK7viW3kM0" version="13.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-22T08:46:54.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="oP6Bb0PjlPzOVUYvwzqz" version="13.5.0" type="github">
   <diagram id="LYvnLIcDRPvLys48fhbC" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mByM-L_YtEdj-Pzh2EhQ-14" value="应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="530" width="540" height="790" as="geometry" />
+        </mxCell>
         <mxCell id="5PHVH8C7VnvAZDS9d-Uz-40" value="矩阵" style="html=1;align=left;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-310" y="530" width="540" height="660" as="geometry" />
+          <mxGeometry x="-430" y="530" width="660" height="790" as="geometry" />
         </mxCell>
         <mxCell id="5PHVH8C7VnvAZDS9d-Uz-39" value="行列式" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="-170" y="110" width="980" height="400" as="geometry" />
@@ -102,7 +105,7 @@
         <mxCell id="5PHVH8C7VnvAZDS9d-Uz-23" value="伴随矩阵法A&lt;sup&gt;-1&lt;/sup&gt;=A&lt;sup&gt;*&lt;/sup&gt;➗|A|" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="685" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5PHVH8C7VnvAZDS9d-Uz-26" value="逆矩阵" style="html=1;" parent="1" vertex="1">
+        <mxCell id="5PHVH8C7VnvAZDS9d-Uz-26" value="逆矩阵计算" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="780" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5PHVH8C7VnvAZDS9d-Uz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="5PHVH8C7VnvAZDS9d-Uz-31" target="5PHVH8C7VnvAZDS9d-Uz-26" edge="1">
@@ -150,11 +153,15 @@
         <mxCell id="5PHVH8C7VnvAZDS9d-Uz-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5PHVH8C7VnvAZDS9d-Uz-41" target="5PHVH8C7VnvAZDS9d-Uz-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5PHVH8C7VnvAZDS9d-Uz-41" value="伴随矩阵:|A|的所有代数余子式" style="html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="5PHVH8C7VnvAZDS9d-Uz-41" value="伴随矩阵:A&lt;sup&gt;* &lt;/sup&gt;=&lt;sup&gt;&amp;nbsp;&lt;/sup&gt;&lt;br&gt;|A|的所有代数余子式" style="html=1;align=center;" parent="1" vertex="1">
           <mxGeometry y="570" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5PHVH8C7VnvAZDS9d-Uz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5PHVH8C7VnvAZDS9d-Uz-46" target="5PHVH8C7VnvAZDS9d-Uz-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mByM-L_YtEdj-Pzh2EhQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5PHVH8C7VnvAZDS9d-Uz-46" target="mByM-L_YtEdj-Pzh2EhQ-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-230" y="710" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5PHVH8C7VnvAZDS9d-Uz-46" value="初等变换" style="html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-175" y="685" width="110" height="50" as="geometry" />
@@ -162,8 +169,32 @@
         <mxCell id="5PHVH8C7VnvAZDS9d-Uz-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5PHVH8C7VnvAZDS9d-Uz-48" target="5PHVH8C7VnvAZDS9d-Uz-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mByM-L_YtEdj-Pzh2EhQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5PHVH8C7VnvAZDS9d-Uz-48" target="5PHVH8C7VnvAZDS9d-Uz-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5PHVH8C7VnvAZDS9d-Uz-48" value="初等变换法:(A,B)-&amp;gt;(E,A&lt;sup&gt;-1&lt;/sup&gt;B)" style="html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-220" y="890" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mByM-L_YtEdj-Pzh2EhQ-2" value="秩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mByM-L_YtEdj-Pzh2EhQ-3" value="正交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mByM-L_YtEdj-Pzh2EhQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mByM-L_YtEdj-Pzh2EhQ-4" target="mByM-L_YtEdj-Pzh2EhQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mByM-L_YtEdj-Pzh2EhQ-4" value="标准正交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mByM-L_YtEdj-Pzh2EhQ-6" value="行阶梯形矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mByM-L_YtEdj-Pzh2EhQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mByM-L_YtEdj-Pzh2EhQ-12" target="mByM-L_YtEdj-Pzh2EhQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mByM-L_YtEdj-Pzh2EhQ-12" value="行最简形矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="895" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

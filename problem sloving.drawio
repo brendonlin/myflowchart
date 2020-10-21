@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T01:47:48.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="ugGIDuZ5tq527KM_R3Hs" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T01:51:14.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="apWhYRMhp0x3-c5Z6Y3S" version="13.7.9" type="github">
   <diagram id="uEF08oMdAxQOUfXcBryF" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IiR49pN4byI8YeOL9Al6-10" value="问题解决环节" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="60" y="215" width="550" height="130" as="geometry" />
+          <mxGeometry x="60" y="215" width="550" height="365" as="geometry" />
         </mxCell>
         <mxCell id="IiR49pN4byI8YeOL9Al6-9" value="能力环节" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="240" y="70" width="550" height="120" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="IiR49pN4byI8YeOL9Al6-2" value="能力准备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IiR49pN4byI8YeOL9Al6-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IiR49pN4byI8YeOL9Al6-4" target="IiR49pN4byI8YeOL9Al6-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IiR49pN4byI8YeOL9Al6-4" value="解决" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="250" width="120" height="60" as="geometry" />
@@ -52,6 +55,26 @@
         </mxCell>
         <mxCell id="IiR49pN4byI8YeOL9Al6-8" value="作用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IiR49pN4byI8YeOL9Al6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IiR49pN4byI8YeOL9Al6-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IiR49pN4byI8YeOL9Al6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IiR49pN4byI8YeOL9Al6-17" target="IiR49pN4byI8YeOL9Al6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IiR49pN4byI8YeOL9Al6-17" value="能否解决？" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="465" y="342.5" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IiR49pN4byI8YeOL9Al6-21" value="结束" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IiR49pN4byI8YeOL9Al6-22" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IiR49pN4byI8YeOL9Al6-24" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T07:48:33.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="__u3YcW0QGjIBHNsKazS" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T07:54:13.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ZTqw1JNkb60BL5odIJEG" version="13.9.9" type="github">
   <diagram id="Kc8xAz21066BhAhL1jHd" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,11 @@
         <mxCell id="ysLVCo7aUFPDmDpuyBiE-2" value="Data Studio" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="140" y="130" width="510" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="ysLVCo7aUFPDmDpuyBiE-5" value="业务流程" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="180" y="190" width="280" height="230" as="geometry" />
+        <mxCell id="ysLVCo7aUFPDmDpuyBiE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ysLVCo7aUFPDmDpuyBiE-5" target="ysLVCo7aUFPDmDpuyBiE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLVCo7aUFPDmDpuyBiE-5" value="业务流程：多个任务的组合" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="180" y="190" width="360" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ysLVCo7aUFPDmDpuyBiE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ysLVCo7aUFPDmDpuyBiE-3" target="ysLVCo7aUFPDmDpuyBiE-4">
           <mxGeometry relative="1" as="geometry" />
@@ -16,11 +19,39 @@
         <mxCell id="ysLVCo7aUFPDmDpuyBiE-3" value="数据集成" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ysLVCo7aUFPDmDpuyBiE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ysLVCo7aUFPDmDpuyBiE-7" target="ysLVCo7aUFPDmDpuyBiE-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ysLVCo7aUFPDmDpuyBiE-4" value="数据开发" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="294" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ysLVCo7aUFPDmDpuyBiE-7" value="ETL执行、建表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="350" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLVCo7aUFPDmDpuyBiE-8" value="数据服务" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLVCo7aUFPDmDpuyBiE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ysLVCo7aUFPDmDpuyBiE-10" target="ysLVCo7aUFPDmDpuyBiE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLVCo7aUFPDmDpuyBiE-10" value="任务发布" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="680" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLVCo7aUFPDmDpuyBiE-12" value="任务运维" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="841" y="130" width="400" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLVCo7aUFPDmDpuyBiE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ysLVCo7aUFPDmDpuyBiE-13" target="ysLVCo7aUFPDmDpuyBiE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLVCo7aUFPDmDpuyBiE-13" value="任务" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="870" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLVCo7aUFPDmDpuyBiE-15" value="任务实例" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="870" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

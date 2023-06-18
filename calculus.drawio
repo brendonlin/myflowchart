@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2023-06-18T01:21:16.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="-7YS6OPIkocHE1RTehgD" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-18T01:45:15.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="FWcPGLLKjPp45wlooxu_" version="21.4.0" type="github">
   <diagram name="Page-1" id="VGHvvajVorK2azADJzkz">
-    <mxGraphModel dx="3559" dy="2646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4642" dy="3264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-1" value="初等数学" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="900" width="960" height="350" as="geometry" />
+          <mxGeometry x="-400" y="900" width="1000" height="380" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-2" value="极限和无穷小" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="320" width="960" height="560" as="geometry" />
+          <mxGeometry x="-400" y="320" width="1000" height="560" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-3" value="导数和微分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="640" y="20" width="1010" height="860" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-4" value="积分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="-460" width="960" height="750" as="geometry" />
+          <mxGeometry x="-400" y="-460" width="1000" height="750" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-5" value="级数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-460" width="1010" height="450" as="geometry" />
+          <mxGeometry x="640" y="-710" width="1010" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-6" value="微分方程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="600" width="350" height="160" as="geometry" />
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-6" value="微分方程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="20" width="780" height="860" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-8" value="应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="640" y="910" width="1500" height="370" as="geometry" />
+          <mxGeometry x="637" y="910" width="1873" height="370" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-9" target="I-8bGkA8Zce3OLZ5yMU2-10">
           <mxGeometry relative="1" as="geometry">
@@ -268,8 +268,8 @@
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-86" target="I-8bGkA8Zce3OLZ5yMU2-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="-70" />
-              <mxPoint x="620" y="605" />
+              <mxPoint x="610" y="-70" />
+              <mxPoint x="610" y="605" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -389,6 +389,230 @@
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-120" value="条件收敛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-124" value="数列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-125" target="I-8bGkA8Zce3OLZ5yMU2-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-125" target="I-8bGkA8Zce3OLZ5yMU2-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="-100" />
+              <mxPoint x="630" y="310" />
+              <mxPoint x="440" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-125" value="级数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-129" target="I-8bGkA8Zce3OLZ5yMU2-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-129" value="级数的敛散性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="-500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-131" target="I-8bGkA8Zce3OLZ5yMU2-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1005" y="-550" />
+              <mxPoint x="1005" y="-485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-131" value="几何级数判别法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-132" target="I-8bGkA8Zce3OLZ5yMU2-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-132" value="正项级数的敛散性判别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-133" target="I-8bGkA8Zce3OLZ5yMU2-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-133" value="比式/根式/积分判别法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="-500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-135" target="I-8bGkA8Zce3OLZ5yMU2-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-135" value="交错级数的敛散性判别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-136" target="I-8bGkA8Zce3OLZ5yMU2-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-136" value="交错级数判别法/绝对收敛判别法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-142" target="I-8bGkA8Zce3OLZ5yMU2-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-142" value="基于级数的性质判别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-144" target="I-8bGkA8Zce3OLZ5yMU2-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="846" y="-540" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-144" target="I-8bGkA8Zce3OLZ5yMU2-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="-600" />
+              <mxPoint x="620" y="-310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-144" value="参考反常积分的判别法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-147" target="I-8bGkA8Zce3OLZ5yMU2-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-147" value="幂级数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-149" target="I-8bGkA8Zce3OLZ5yMU2-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-149" value="函数项级数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-152" value="泰勒多项式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="-410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-153" target="I-8bGkA8Zce3OLZ5yMU2-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-153" value="泰勒定理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-155" target="I-8bGkA8Zce3OLZ5yMU2-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-155" target="I-8bGkA8Zce3OLZ5yMU2-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="-70" />
+              <mxPoint x="1670" y="-70" />
+              <mxPoint x="1670" y="900" />
+              <mxPoint x="620" y="900" />
+              <mxPoint x="620" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-155" value="泰勒级数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="-220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-157" target="I-8bGkA8Zce3OLZ5yMU2-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-157" value="麦克劳林级数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="-220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-159" target="I-8bGkA8Zce3OLZ5yMU2-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-159" value="幂级数的敛散性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-161" target="I-8bGkA8Zce3OLZ5yMU2-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-161" value="阿贝尔定理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-163" target="I-8bGkA8Zce3OLZ5yMU2-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-163" value="收敛半径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-167" target="I-8bGkA8Zce3OLZ5yMU2-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-167" value="重积分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="154" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-168" target="I-8bGkA8Zce3OLZ5yMU2-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-168" value="累次积分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="153" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-171" target="I-8bGkA8Zce3OLZ5yMU2-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-171" value="被积面积" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-173" target="I-8bGkA8Zce3OLZ5yMU2-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-173" value="微分方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-175" target="I-8bGkA8Zce3OLZ5yMU2-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-175" value="一阶微分方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-177" target="I-8bGkA8Zce3OLZ5yMU2-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-177" value="可分离变量的情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-179" target="I-8bGkA8Zce3OLZ5yMU2-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-179" value="一阶齐次微分方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-180" target="I-8bGkA8Zce3OLZ5yMU2-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-180" value="一阶线性微分方程&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-181" target="I-8bGkA8Zce3OLZ5yMU2-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-181" value="二阶线性微分方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-183" target="I-8bGkA8Zce3OLZ5yMU2-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-183" value="二阶齐次线性微分方程的解结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-185" target="I-8bGkA8Zce3OLZ5yMU2-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-185" value="二阶非齐次线性微分方程的解结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-187" target="I-8bGkA8Zce3OLZ5yMU2-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-187" value="二阶常系数齐次线性微分方程的解结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-188" target="I-8bGkA8Zce3OLZ5yMU2-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-188" value="二阶常系数非齐次线性微分方程的解结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-193" value="差分方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

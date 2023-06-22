@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T07:47:10.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="R5_IGXuolALT82hAyP3M" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T08:10:44.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="QgZyFYK1qIM0NzgR_0Lm" version="21.4.0" type="github">
   <diagram name="Page-1" id="LZJyDBGYhkVnm9KzOlmo">
     <mxGraphModel dx="3054" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -411,6 +411,17 @@
         </mxCell>
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-44" value="F分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="-900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyKKh0DaNkTI4sQCX2Am-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyKKh0DaNkTI4sQCX2Am-47" target="zyKKh0DaNkTI4sQCX2Am-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="-840" />
+              <mxPoint x="230" y="-840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zyKKh0DaNkTI4sQCX2Am-47" value="正态总体的抽样分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

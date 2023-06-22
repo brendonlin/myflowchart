@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T08:10:44.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="QgZyFYK1qIM0NzgR_0Lm" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T13:40:15.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="Tcp052HL4GydeHJxdtlh" version="21.4.0" type="github">
   <diagram name="Page-1" id="LZJyDBGYhkVnm9KzOlmo">
     <mxGraphModel dx="3054" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,9 +62,6 @@
         </mxCell>
         <mxCell id="cLtNdNn3tPnhrVzdo7Qm-16" value="随机向量的独立性" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="730" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F3k5V1CB1kf05i8B304b-1" value="随机变量函数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-950" y="290" width="790" height="670" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-2" value="随机变量的数字特征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="-950" y="-250" width="790" height="510" as="geometry" />
@@ -422,6 +419,18 @@
         </mxCell>
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-47" value="正态总体的抽样分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyKKh0DaNkTI4sQCX2Am-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyKKh0DaNkTI4sQCX2Am-49" target="F3k5V1CB1kf05i8B304b-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyKKh0DaNkTI4sQCX2Am-49" value="随机变量函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyKKh0DaNkTI4sQCX2Am-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zyKKh0DaNkTI4sQCX2Am-51" target="zyKKh0DaNkTI4sQCX2Am-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyKKh0DaNkTI4sQCX2Am-51" value="卷积公式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

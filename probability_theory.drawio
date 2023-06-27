@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T13:02:57.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="u7-f84sR3Pb04vt97zyb" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T13:10:34.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="PCFRpEXvFNJsm0At4fhq" version="21.5.0" type="github">
   <diagram name="Page-1" id="LZJyDBGYhkVnm9KzOlmo">
-    <mxGraphModel dx="3158" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4409" dy="2646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
           <mxGeometry x="90" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-2" value="数字特征和相关定理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-950" y="-250" width="790" height="510" as="geometry" />
+          <mxGeometry x="-950" y="-250" width="790" height="760" as="geometry" />
         </mxCell>
         <mxCell id="rsQqXhlNHzxdDihvjQ3C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="F3k5V1CB1kf05i8B304b-3" target="F3k5V1CB1kf05i8B304b-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -249,7 +249,7 @@
           <mxGeometry x="-525" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-1" value="抽样分布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="-920" width="775" height="630" as="geometry" />
+          <mxGeometry x="-120" y="-920" width="1450" height="630" as="geometry" />
         </mxCell>
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zyKKh0DaNkTI4sQCX2Am-2" target="F3k5V1CB1kf05i8B304b-45" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -381,6 +381,9 @@
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zyKKh0DaNkTI4sQCX2Am-38" target="zyKKh0DaNkTI4sQCX2Am-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sJdl5WpV_pYFhPxivW0N-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zyKKh0DaNkTI4sQCX2Am-38" target="sJdl5WpV_pYFhPxivW0N-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-38" value="卡方分布" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
@@ -420,17 +423,17 @@
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-47" value="正态总体的抽样分布" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zyKKh0DaNkTI4sQCX2Am-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="zyKKh0DaNkTI4sQCX2Am-49" target="F3k5V1CB1kf05i8B304b-15" edge="1">
+        <mxCell id="zyKKh0DaNkTI4sQCX2Am-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zyKKh0DaNkTI4sQCX2Am-49" target="F3k5V1CB1kf05i8B304b-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-49" value="随机变量函数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zyKKh0DaNkTI4sQCX2Am-51" target="zyKKh0DaNkTI4sQCX2Am-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-51" value="卷积公式" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry y="-150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X7N7p8_V6x4Iawnt1zt9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="X7N7p8_V6x4Iawnt1zt9-1" target="F3k5V1CB1kf05i8B304b-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -476,8 +479,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="sJdl5WpV_pYFhPxivW0N-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X7N7p8_V6x4Iawnt1zt9-8" target="F3k5V1CB1kf05i8B304b-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X7N7p8_V6x4Iawnt1zt9-8" value="中心极限定理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-830" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJdl5WpV_pYFhPxivW0N-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sJdl5WpV_pYFhPxivW0N-6" target="F3k5V1CB1kf05i8B304b-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sJdl5WpV_pYFhPxivW0N-6" value="全数学期望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-375" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJdl5WpV_pYFhPxivW0N-8" value="伽马函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

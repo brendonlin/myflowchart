@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T07:50:44.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="ou26C2rh4VR-J2rpfvHI" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-03T08:12:31.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="FyG5Im6k7pcudWpqjOsB" version="21.5.2" type="github">
   <diagram name="Page-1" id="LZJyDBGYhkVnm9KzOlmo">
-    <mxGraphModel dx="5492" dy="4364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2815" dy="2836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-950" y="-1630" width="1460" height="670" as="geometry" />
         </mxCell>
         <mxCell id="ymbf6cTUOjelWDV3sFH_-3" value="概率分布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-920" width="770" height="630" as="geometry" />
+          <mxGeometry x="550" y="-920" width="1030" height="630" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-11" value="随机变量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="-120" y="-250" width="780" height="980" as="geometry" />
@@ -344,15 +344,15 @@
           <mxGeometry x="-545" y="-900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-34" value="正态分布" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="-500" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="-530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zyKKh0DaNkTI4sQCX2Am-36" target="zyKKh0DaNkTI4sQCX2Am-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-36" value="标准正态分布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="870" y="-580" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="-530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sJdl5WpV_pYFhPxivW0N-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="zyKKh0DaNkTI4sQCX2Am-38" target="sJdl5WpV_pYFhPxivW0N-8" edge="1">
+        <mxCell id="sJdl5WpV_pYFhPxivW0N-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zyKKh0DaNkTI4sQCX2Am-38" target="sJdl5WpV_pYFhPxivW0N-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ymbf6cTUOjelWDV3sFH_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyKKh0DaNkTI4sQCX2Am-38" target="zyKKh0DaNkTI4sQCX2Am-36">
@@ -622,6 +622,80 @@
         </mxCell>
         <mxCell id="ymbf6cTUOjelWDV3sFH_-82" value="偏差的分解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="-1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-85" value="0-1分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ymbf6cTUOjelWDV3sFH_-86" target="ymbf6cTUOjelWDV3sFH_-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-86" value="二项分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="-530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ymbf6cTUOjelWDV3sFH_-88" target="ymbf6cTUOjelWDV3sFH_-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-88" value="泊松分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ymbf6cTUOjelWDV3sFH_-89" target="ymbf6cTUOjelWDV3sFH_-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="-680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-89" value="指数分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-91" value="均匀分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-93" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ymbf6cTUOjelWDV3sFH_-89" target="ymbf6cTUOjelWDV3sFH_-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="-480" as="sourcePoint" />
+            <mxPoint x="1090" y="-530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-95" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zyKKh0DaNkTI4sQCX2Am-36" target="ymbf6cTUOjelWDV3sFH_-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="-470" as="sourcePoint" />
+            <mxPoint x="970" y="-520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ymbf6cTUOjelWDV3sFH_-96" target="sJdl5WpV_pYFhPxivW0N-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-96" value="伽马分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ymbf6cTUOjelWDV3sFH_-97" target="sJdl5WpV_pYFhPxivW0N-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-97" value="贝塔分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ymbf6cTUOjelWDV3sFH_-100" target="ymbf6cTUOjelWDV3sFH_-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-100" value="多项分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ymbf6cTUOjelWDV3sFH_-102" target="ymbf6cTUOjelWDV3sFH_-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="-390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-102" value="几何分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-103" value="超几何分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymbf6cTUOjelWDV3sFH_-104" value="无记忆性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

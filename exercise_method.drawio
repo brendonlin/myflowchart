@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T05:25:59.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="MrmRIz4m0tmyToOOmHGp" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T05:26:25.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="CUwep4RoMSVlQNGqs2Q6" version="21.6.5" type="github">
   <diagram name="Page-1" id="2tTZSiHK8Q8oS2EFRTSw">
-    <mxGraphModel dx="1670" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1336" dy="1821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,7 +122,7 @@
         <mxCell id="-4JPPDkWhVJN5cEuC3fu-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-4JPPDkWhVJN5cEuC3fu-1" target="-4JPPDkWhVJN5cEuC3fu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-4JPPDkWhVJN5cEuC3fu-1" value="录入新题型（如果有）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-4JPPDkWhVJN5cEuC3fu-1" value="限时录入新题型（如果有）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="110" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-4JPPDkWhVJN5cEuC3fu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-4JPPDkWhVJN5cEuC3fu-3" target="-4JPPDkWhVJN5cEuC3fu-7">

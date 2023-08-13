@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T02:26:32.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="BcBdn6hug4eIiZzvoEkT" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-13T02:34:34.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="ORmpeu05jlWqWlSTvQzR" version="21.6.6" type="github">
   <diagram name="Page-1" id="7m4uo4GMCayqNNpe3dpX">
-    <mxGraphModel dx="2392" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2520" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="l_-5iuy91tXy2IB9srBs-153" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-70" width="1280" height="770" as="geometry" />
+        </mxCell>
         <mxCell id="l_-5iuy91tXy2IB9srBs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_-5iuy91tXy2IB9srBs-1" target="l_-5iuy91tXy2IB9srBs-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -341,7 +344,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l_-5iuy91tXy2IB9srBs-103" value="民族矛盾上升为主要矛盾" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1500" width="210" height="60" as="geometry" />
+          <mxGeometry x="810" y="1460" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l_-5iuy91tXy2IB9srBs-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_-5iuy91tXy2IB9srBs-104" target="l_-5iuy91tXy2IB9srBs-107">
           <mxGeometry relative="1" as="geometry" />
@@ -350,6 +353,9 @@
           <mxGeometry x="970" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l_-5iuy91tXy2IB9srBs-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_-5iuy91tXy2IB9srBs-107" target="l_-5iuy91tXy2IB9srBs-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_-5iuy91tXy2IB9srBs-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_-5iuy91tXy2IB9srBs-107" target="l_-5iuy91tXy2IB9srBs-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l_-5iuy91tXy2IB9srBs-107" value="国共第二次合作" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -416,6 +422,9 @@
         <mxCell id="l_-5iuy91tXy2IB9srBs-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_-5iuy91tXy2IB9srBs-129" target="l_-5iuy91tXy2IB9srBs-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l_-5iuy91tXy2IB9srBs-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l_-5iuy91tXy2IB9srBs-129" target="l_-5iuy91tXy2IB9srBs-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l_-5iuy91tXy2IB9srBs-129" value="抗日战争胜利" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="2370" width="120" height="60" as="geometry" />
         </mxCell>
@@ -439,10 +448,40 @@
           <mxGeometry x="190" y="2370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l_-5iuy91tXy2IB9srBs-138" value="国民党退到台湾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="2500" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="2500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l_-5iuy91tXy2IB9srBs-139" value="中华人民共和国成立" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="2570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_-5iuy91tXy2IB9srBs-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_-5iuy91tXy2IB9srBs-144" target="l_-5iuy91tXy2IB9srBs-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="2040" />
+              <mxPoint x="1030" y="2040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_-5iuy91tXy2IB9srBs-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_-5iuy91tXy2IB9srBs-144" target="l_-5iuy91tXy2IB9srBs-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_-5iuy91tXy2IB9srBs-144" value="抗日民族统一战线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_-5iuy91tXy2IB9srBs-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_-5iuy91tXy2IB9srBs-148" target="l_-5iuy91tXy2IB9srBs-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_-5iuy91tXy2IB9srBs-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_-5iuy91tXy2IB9srBs-148" target="l_-5iuy91tXy2IB9srBs-150">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="2630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_-5iuy91tXy2IB9srBs-148" value="反法西斯战争欧洲战场结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="2490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_-5iuy91tXy2IB9srBs-150" value="两极格局形成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

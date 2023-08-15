@@ -1,93 +1,357 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T03:25:59.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="h8aEQZZjvRa2jfWIl6wu" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T13:50:15.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="p26hRAUx9sMzIn5W586J" version="21.6.8" type="github">
   <diagram name="Page-1" id="SJ8YPq7MhVKhCTlzgT_y">
-    <mxGraphModel dx="2698" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2263" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-1" target="PvjCdeY7pSC6lOEJBARH-15">
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PvjCdeY7pSC6lOEJBARH-1" target="PvjCdeY7pSC6lOEJBARH-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-1" value="文艺复习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-1" value="文艺复习" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-2" value="地理大发现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-3" target="PvjCdeY7pSC6lOEJBARH-4">
+        <mxCell id="WC94e9MQzGsr02AmZK8c-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-2" target="WC94e9MQzGsr02AmZK8c-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-3" value="印刷术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-2" value="地理大发现" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-4" value="宗教改革" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-6" target="PvjCdeY7pSC6lOEJBARH-1">
+        <mxCell id="WC94e9MQzGsr02AmZK8c-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-3" target="PvjCdeY7pSC6lOEJBARH-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-6" target="PvjCdeY7pSC6lOEJBARH-4">
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-3" value="印刷术" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-4" target="WC94e9MQzGsr02AmZK8c-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-6" value="中世纪宗教统治" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-4" value="宗教改革" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-8" target="PvjCdeY7pSC6lOEJBARH-9">
+        <mxCell id="WC94e9MQzGsr02AmZK8c-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-6" target="PvjCdeY7pSC6lOEJBARH-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-6" target="WC94e9MQzGsr02AmZK8c-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-8" target="PvjCdeY7pSC6lOEJBARH-21">
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-6" value="中世纪宗教统治" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="625" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PvjCdeY7pSC6lOEJBARH-8" target="PvjCdeY7pSC6lOEJBARH-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PvjCdeY7pSC6lOEJBARH-8" target="PvjCdeY7pSC6lOEJBARH-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-90" y="850" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-8" value="拜占庭覆灭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-8" value="拜占庭覆灭" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-9" target="PvjCdeY7pSC6lOEJBARH-1">
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PvjCdeY7pSC6lOEJBARH-9" target="PvjCdeY7pSC6lOEJBARH-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-9" value="文化传播" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="475" width="120" height="60" as="geometry" />
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-9" value="文化传播" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="461" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-13" target="PvjCdeY7pSC6lOEJBARH-1">
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="PvjCdeY7pSC6lOEJBARH-13" target="PvjCdeY7pSC6lOEJBARH-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-13" target="PvjCdeY7pSC6lOEJBARH-23">
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="PvjCdeY7pSC6lOEJBARH-13" target="PvjCdeY7pSC6lOEJBARH-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-13" value="地中海区域商业活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="590" width="120" height="60" as="geometry" />
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-13" value="地中海区域商业活动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="655" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-15" target="PvjCdeY7pSC6lOEJBARH-23">
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PvjCdeY7pSC6lOEJBARH-15" target="PvjCdeY7pSC6lOEJBARH-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-15" value="科学发展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-15" value="科学发展" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-17" target="PvjCdeY7pSC6lOEJBARH-1">
+        <mxCell id="WC94e9MQzGsr02AmZK8c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-17" target="PvjCdeY7pSC6lOEJBARH-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-17" value="黑死病" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="690" width="120" height="60" as="geometry" />
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-17" value="黑死病" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-19" target="PvjCdeY7pSC6lOEJBARH-8">
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PvjCdeY7pSC6lOEJBARH-19" target="PvjCdeY7pSC6lOEJBARH-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-19" value="奥斯曼崛起" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="415" width="120" height="60" as="geometry" />
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-19" value="奥斯曼崛起" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-21" target="PvjCdeY7pSC6lOEJBARH-2">
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PvjCdeY7pSC6lOEJBARH-21" target="PvjCdeY7pSC6lOEJBARH-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-21" value="欧洲和亚洲的贸易路线受到限制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-21" value="欧洲和亚洲的贸易路线受到限制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PvjCdeY7pSC6lOEJBARH-23" target="PvjCdeY7pSC6lOEJBARH-2">
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PvjCdeY7pSC6lOEJBARH-23" target="PvjCdeY7pSC6lOEJBARH-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvjCdeY7pSC6lOEJBARH-23" value="航海技术发展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="605" width="120" height="60" as="geometry" />
+        <mxCell id="PvjCdeY7pSC6lOEJBARH-23" value="航海技术发展" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-1" target="PvjCdeY7pSC6lOEJBARH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-1" target="PvjCdeY7pSC6lOEJBARH-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-1" target="PvjCdeY7pSC6lOEJBARH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="20" />
+              <mxPoint x="150" y="255" />
+              <mxPoint x="230" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-1" value="东西方贸易路线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-8" target="PvjCdeY7pSC6lOEJBARH-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-8" value="十字军战争" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-9" target="WC94e9MQzGsr02AmZK8c-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-9" target="WC94e9MQzGsr02AmZK8c-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-9" value="欧洲沿大西洋国家崛起" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-12" target="WC94e9MQzGsr02AmZK8c-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-12" target="WC94e9MQzGsr02AmZK8c-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-12" value="殖民美洲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-14" value="黑奴贸易" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-16" target="WC94e9MQzGsr02AmZK8c-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-16" value="美国独立" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-20" target="WC94e9MQzGsr02AmZK8c-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-20" target="WC94e9MQzGsr02AmZK8c-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-20" target="WC94e9MQzGsr02AmZK8c-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="940" />
+              <mxPoint x="-170" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-20" value="资本主义发展" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-22" target="WC94e9MQzGsr02AmZK8c-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-22" target="WC94e9MQzGsr02AmZK8c-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-22" target="WC94e9MQzGsr02AmZK8c-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="1190" />
+              <mxPoint x="60" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-22" value="资产阶级民主革命" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-24" target="WC94e9MQzGsr02AmZK8c-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-24" value="法国大革命" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-26" target="WC94e9MQzGsr02AmZK8c-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-26" target="WC94e9MQzGsr02AmZK8c-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="1510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-26" value="拿破仑战争" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-28" target="WC94e9MQzGsr02AmZK8c-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-28" target="WC94e9MQzGsr02AmZK8c-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-28" value="德国统一" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-30" target="WC94e9MQzGsr02AmZK8c-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-30" value="启蒙运动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-36" target="WC94e9MQzGsr02AmZK8c-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-36" target="WC94e9MQzGsr02AmZK8c-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-170" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-36" value="科学发展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-39" target="WC94e9MQzGsr02AmZK8c-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-39" value="第一次世界大战" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-41" target="WC94e9MQzGsr02AmZK8c-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="1550" />
+              <mxPoint x="718" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-41" value="英国成为日不落帝国" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-43" target="WC94e9MQzGsr02AmZK8c-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-43" value="英国资产阶级革命" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-45" target="WC94e9MQzGsr02AmZK8c-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-45" target="WC94e9MQzGsr02AmZK8c-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="1440" />
+              <mxPoint x="-110" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-45" value="工业革命" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-49" target="WC94e9MQzGsr02AmZK8c-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-49" value="社会主义思想发展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-50" target="WC94e9MQzGsr02AmZK8c-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-50" value="工人阶级发展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-53" value="苏联诞生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-56" target="WC94e9MQzGsr02AmZK8c-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="1970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-56" target="WC94e9MQzGsr02AmZK8c-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-56" value="资本主义国家内部矛盾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-57" target="WC94e9MQzGsr02AmZK8c-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-57" value="经济危机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-59" value="第二次世界大战" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-62" target="WC94e9MQzGsr02AmZK8c-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-62" target="WC94e9MQzGsr02AmZK8c-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-62" value="第二次工业革命" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-68" target="WC94e9MQzGsr02AmZK8c-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-68" value="国家间实力和利益的不平衡" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1690" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-83" target="WC94e9MQzGsr02AmZK8c-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="380" />
+              <mxPoint x="640" y="1050" />
+              <mxPoint x="280" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-83" value="自由主义" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-86" target="WC94e9MQzGsr02AmZK8c-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-86" target="WC94e9MQzGsr02AmZK8c-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-86" value="罗马帝国崛起" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="-300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-87" target="PvjCdeY7pSC6lOEJBARH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-87" value="确立基督教为国教" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WC94e9MQzGsr02AmZK8c-90" target="WC94e9MQzGsr02AmZK8c-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WC94e9MQzGsr02AmZK8c-90" value="统治需要" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

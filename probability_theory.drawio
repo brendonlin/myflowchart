@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T01:21:30.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="4LR_M7mxABp6rEalrjot" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T02:08:08.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="-VjzEvZ_XLj1JdnofmTE" version="21.6.8" type="github">
   <diagram name="Page-1" id="LZJyDBGYhkVnm9KzOlmo">
-    <mxGraphModel dx="4198" dy="3043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3886" dy="2921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,10 +30,10 @@
         <mxCell id="cLtNdNn3tPnhrVzdo7Qm-3" value="边缘分布" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xD8FT76Nhexl4K9wNgLp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cLtNdNn3tPnhrVzdo7Qm-13" target="cLtNdNn3tPnhrVzdo7Qm-2">
+        <mxCell id="xD8FT76Nhexl4K9wNgLp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cLtNdNn3tPnhrVzdo7Qm-13" target="cLtNdNn3tPnhrVzdo7Qm-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xD8FT76Nhexl4K9wNgLp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cLtNdNn3tPnhrVzdo7Qm-13" target="cLtNdNn3tPnhrVzdo7Qm-3">
+        <mxCell id="xD8FT76Nhexl4K9wNgLp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cLtNdNn3tPnhrVzdo7Qm-13" target="cLtNdNn3tPnhrVzdo7Qm-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="60" y="400" />
@@ -53,7 +53,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cLtNdNn3tPnhrVzdo7Qm-16" value="随机向量的独立性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cLtNdNn3tPnhrVzdo7Qm-16" value="随机变量的独立性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-2" value="数字特征和相关定理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=left;" parent="1" vertex="1">
@@ -66,8 +66,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-340" y="110" />
-              <mxPoint x="-340" y="130" />
-              <mxPoint x="-465" y="130" />
+              <mxPoint x="-340" y="180" />
+              <mxPoint x="-465" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,16 +80,6 @@
         <mxCell id="F3k5V1CB1kf05i8B304b-4" value="方差" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-445" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F3k5V1CB1kf05i8B304b-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="F3k5V1CB1kf05i8B304b-6" target="cLtNdNn3tPnhrVzdo7Qm-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-320" y="190" />
-              <mxPoint x="-140" y="190" />
-              <mxPoint x="-140" y="640" />
-            </Array>
-            <mxPoint x="530.0000000000005" y="790" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="F3k5V1CB1kf05i8B304b-6" target="F3k5V1CB1kf05i8B304b-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -98,8 +88,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="E82SljbTsBkKDn3-Bzkl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F3k5V1CB1kf05i8B304b-6" target="cLtNdNn3tPnhrVzdo7Qm-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-6" value="条件数学期望" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-375" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-375" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F3k5V1CB1kf05i8B304b-12" target="F3k5V1CB1kf05i8B304b-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -122,7 +115,7 @@
           <mxGeometry y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-18" value="随机试验" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="-140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1120" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F3k5V1CB1kf05i8B304b-19" target="F3k5V1CB1kf05i8B304b-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -134,19 +127,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-20" value="样本点" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="-140" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F3k5V1CB1kf05i8B304b-23" target="F3k5V1CB1kf05i8B304b-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-23" value="样本空间" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="-140" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="F3k5V1CB1kf05i8B304b-27" target="F3k5V1CB1kf05i8B304b-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F3k5V1CB1kf05i8B304b-27" value="随机事件的关系运算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" width="120" height="60" as="geometry" />
+        <mxCell id="F3k5V1CB1kf05i8B304b-27" value="随机事件的运算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F3k5V1CB1kf05i8B304b-29" target="F3k5V1CB1kf05i8B304b-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -158,13 +151,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-31" value="古典概型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="F3k5V1CB1kf05i8B304b-32" target="F3k5V1CB1kf05i8B304b-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-32" value="几何概型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="135" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="F3k5V1CB1kf05i8B304b-36" target="F3k5V1CB1kf05i8B304b-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -190,7 +183,7 @@
         <mxCell id="F3k5V1CB1kf05i8B304b-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="F3k5V1CB1kf05i8B304b-42" target="F3k5V1CB1kf05i8B304b-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F3k5V1CB1kf05i8B304b-42" value="独立性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="F3k5V1CB1kf05i8B304b-42" value="随机事件的独立性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3k5V1CB1kf05i8B304b-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F3k5V1CB1kf05i8B304b-45" target="F3k5V1CB1kf05i8B304b-19" edge="1">
@@ -202,9 +195,9 @@
         <mxCell id="F3k5V1CB1kf05i8B304b-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="F3k5V1CB1kf05i8B304b-47" target="F3k5V1CB1kf05i8B304b-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1300" y="340" />
-              <mxPoint x="1300" y="-220" />
-              <mxPoint x="800" y="-220" />
+              <mxPoint x="1300" y="450" />
+              <mxPoint x="1300" y="-120" />
+              <mxPoint x="800" y="-120" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -224,7 +217,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rsQqXhlNHzxdDihvjQ3C-2" value="协方差" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-305" y="-70" width="120" height="60" as="geometry" />
+          <mxGeometry x="-290" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rsQqXhlNHzxdDihvjQ3C-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rsQqXhlNHzxdDihvjQ3C-5" target="F3k5V1CB1kf05i8B304b-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -233,10 +226,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rsQqXhlNHzxdDihvjQ3C-5" value="相关系数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-375" y="-180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-290" y="-180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rsQqXhlNHzxdDihvjQ3C-9" value="矩" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-525" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-525" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-1" value="抽样分布和参数估计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="-950" y="-920" width="1460" height="630" as="geometry" />
@@ -388,7 +381,7 @@
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-47" value="正态总体的抽样分布" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="-900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xD8FT76Nhexl4K9wNgLp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyKKh0DaNkTI4sQCX2Am-49" target="F3k5V1CB1kf05i8B304b-15">
+        <mxCell id="xD8FT76Nhexl4K9wNgLp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zyKKh0DaNkTI4sQCX2Am-49" target="F3k5V1CB1kf05i8B304b-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-49" value="随机变量函数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -398,7 +391,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zyKKh0DaNkTI4sQCX2Am-51" value="卷积公式" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry y="-150" width="120" height="60" as="geometry" />
+          <mxGeometry y="-210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X7N7p8_V6x4Iawnt1zt9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="X7N7p8_V6x4Iawnt1zt9-1" target="F3k5V1CB1kf05i8B304b-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -425,18 +418,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="E82SljbTsBkKDn3-Bzkl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X7N7p8_V6x4Iawnt1zt9-6" target="E82SljbTsBkKDn3-Bzkl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X7N7p8_V6x4Iawnt1zt9-6" value="大数定律" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-665" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sJdl5WpV_pYFhPxivW0N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="X7N7p8_V6x4Iawnt1zt9-8" target="F3k5V1CB1kf05i8B304b-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-800" y="-130" />
-              <mxPoint x="-800" y="140" />
-              <mxPoint x="-510" y="140" />
-              <mxPoint x="-510" y="95" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="8iCnkJ9YkTvWhpFiWill-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="X7N7p8_V6x4Iawnt1zt9-8" target="X7N7p8_V6x4Iawnt1zt9-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -449,6 +435,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="E82SljbTsBkKDn3-Bzkl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X7N7p8_V6x4Iawnt1zt9-8" target="E82SljbTsBkKDn3-Bzkl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X7N7p8_V6x4Iawnt1zt9-8" value="中心极限定理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-770" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -456,7 +445,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sJdl5WpV_pYFhPxivW0N-6" value="全数学期望" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-375" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-375" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sJdl5WpV_pYFhPxivW0N-8" value="伽马函数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-880" width="120" height="60" as="geometry" />
@@ -639,7 +628,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xD8FT76Nhexl4K9wNgLp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ymbf6cTUOjelWDV3sFH_-89" target="ymbf6cTUOjelWDV3sFH_-88">
+        <mxCell id="xD8FT76Nhexl4K9wNgLp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="ymbf6cTUOjelWDV3sFH_-89" target="ymbf6cTUOjelWDV3sFH_-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ymbf6cTUOjelWDV3sFH_-89" value="指数分布" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -672,7 +661,7 @@
         <mxCell id="ymbf6cTUOjelWDV3sFH_-100" value="多项分布" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="-530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xD8FT76Nhexl4K9wNgLp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ymbf6cTUOjelWDV3sFH_-102" target="ymbf6cTUOjelWDV3sFH_-104">
+        <mxCell id="xD8FT76Nhexl4K9wNgLp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ymbf6cTUOjelWDV3sFH_-102" target="ymbf6cTUOjelWDV3sFH_-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ymbf6cTUOjelWDV3sFH_-102" value="几何分布" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -755,6 +744,18 @@
         </mxCell>
         <mxCell id="tXCZPNdZwblHk2ZCh1wS-16" value="预测和控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1590" y="-580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E82SljbTsBkKDn3-Bzkl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E82SljbTsBkKDn3-Bzkl-1" target="zyKKh0DaNkTI4sQCX2Am-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E82SljbTsBkKDn3-Bzkl-1" value="最大最小值函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E82SljbTsBkKDn3-Bzkl-3" value="依概率收敛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-665" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E82SljbTsBkKDn3-Bzkl-5" value="依分布收敛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T22:08:22.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="qvzheEOIqs2HAhJkWKae" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-27T12:49:28.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="VxJ8MGnEw-za-DJE2I5T" version="21.6.8" type="github">
   <diagram name="Page-1" id="VGHvvajVorK2azADJzkz">
-    <mxGraphModel dx="3220" dy="2453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2095" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -403,28 +403,27 @@
           <mxGeometry x="-330" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-124" value="数列" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="-360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-125" target="I-8bGkA8Zce3OLZ5yMU2-124" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="690" y="-115" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-125" target="I-8bGkA8Zce3OLZ5yMU2-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="790" y="-100" />
-              <mxPoint x="630" y="-100" />
+              <mxPoint x="630" y="-190" />
               <mxPoint x="630" y="310" />
               <mxPoint x="440" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="La1LPh1TsKoUhFCKyMVh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-125" target="I-8bGkA8Zce3OLZ5yMU2-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-125" value="级数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="-220" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-129" target="I-8bGkA8Zce3OLZ5yMU2-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-129" value="级数的敛散性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-129" value="级数的敛散性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="855" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-131" target="I-8bGkA8Zce3OLZ5yMU2-129" edge="1">
@@ -496,14 +495,22 @@
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-149" value="函数项级数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-152" value="泰勒多项式" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="-410" width="120" height="60" as="geometry" />
+        <mxCell id="La1LPh1TsKoUhFCKyMVh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-152" target="I-8bGkA8Zce3OLZ5yMU2-155">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1500" y="-250" />
+              <mxPoint x="1320" y="-250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-153" target="I-8bGkA8Zce3OLZ5yMU2-152" edge="1">
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-152" value="泰勒多项式" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="-350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-153" target="I-8bGkA8Zce3OLZ5yMU2-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-153" value="泰勒定理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1370" y="-330" width="120" height="60" as="geometry" />
+          <mxGeometry x="1440" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-155" target="I-8bGkA8Zce3OLZ5yMU2-147" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -526,25 +533,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-157" value="麦克劳林级数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1450" y="-220" width="120" height="60" as="geometry" />
+          <mxGeometry x="1440" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-159" target="I-8bGkA8Zce3OLZ5yMU2-147" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="La1LPh1TsKoUhFCKyMVh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-159" target="I-8bGkA8Zce3OLZ5yMU2-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-159" value="幂级数的敛散性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="-340" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-161" target="I-8bGkA8Zce3OLZ5yMU2-159" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-161" value="阿贝尔定理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="-340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-163" target="I-8bGkA8Zce3OLZ5yMU2-159" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-163" value="收敛半径" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="-340" width="120" height="60" as="geometry" />
+        <mxCell id="I-8bGkA8Zce3OLZ5yMU2-161" value="收敛半径和收敛域" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1260" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-8bGkA8Zce3OLZ5yMU2-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="I-8bGkA8Zce3OLZ5yMU2-167" target="I-8bGkA8Zce3OLZ5yMU2-88" edge="1">
           <mxGeometry relative="1" as="geometry" />

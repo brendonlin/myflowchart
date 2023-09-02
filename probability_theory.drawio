@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T08:58:37.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="XOMzRer013eZtXYqszp3" version="21.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-02T09:03:09.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="JIYeAbmHrlfFGevrIEDO" version="21.7.1" type="github" pages="3">
   <diagram name="Probability" id="LZJyDBGYhkVnm9KzOlmo">
     <mxGraphModel dx="3692" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -819,10 +819,43 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nkUXLY_2dx4wQLNEhQ3W" name="Chi-Statistics">
-    <mxGraphModel dx="996" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1107" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UjafFdoszn9Ckueamk8Y-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjafFdoszn9Ckueamk8Y-1" target="UjafFdoszn9Ckueamk8Y-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjafFdoszn9Ckueamk8Y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjafFdoszn9Ckueamk8Y-1" target="UjafFdoszn9Ckueamk8Y-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjafFdoszn9Ckueamk8Y-1" value="卡方统计量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjafFdoszn9Ckueamk8Y-2" value="协方差矩阵" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjafFdoszn9Ckueamk8Y-4" value="多维正态分布" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjafFdoszn9Ckueamk8Y-6" value="正交矩阵" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjafFdoszn9Ckueamk8Y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjafFdoszn9Ckueamk8Y-8" target="UjafFdoszn9Ckueamk8Y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjafFdoszn9Ckueamk8Y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjafFdoszn9Ckueamk8Y-8" target="UjafFdoszn9Ckueamk8Y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjafFdoszn9Ckueamk8Y-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjafFdoszn9Ckueamk8Y-8" target="UjafFdoszn9Ckueamk8Y-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjafFdoszn9Ckueamk8Y-8" value="多维正态分布的协方差矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjafFdoszn9Ckueamk8Y-12" value="对称正定矩阵" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

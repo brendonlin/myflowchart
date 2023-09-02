@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T09:08:04.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="eqk6GUudG9aPlkCLnJKv" version="21.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-02T12:24:32.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="DfZ6pGsfA7DGQJiv1rft" version="21.7.1" type="github" pages="3">
   <diagram name="Probability" id="LZJyDBGYhkVnm9KzOlmo">
     <mxGraphModel dx="3692" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -867,6 +867,13 @@
         </mxCell>
         <mxCell id="UjafFdoszn9Ckueamk8Y-19" value="&lt;h1&gt;顺序&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 协方差和相关系数&lt;/div&gt;&lt;div&gt;2. 多维正态分布&lt;/div&gt;&lt;div&gt;3. 矩阵的正定性和正交性&lt;/div&gt;&lt;div&gt;4. 协方差矩阵&lt;/div&gt;&lt;div&gt;5. 多维正态分布的协方差矩阵&lt;/div&gt;&lt;div&gt;6. 卡方统计量的证明&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-340" y="210" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="UjafFdoszn9Ckueamk8Y-22" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="500" y="580" as="sourcePoint" />
+            <mxPoint x="580" y="580" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

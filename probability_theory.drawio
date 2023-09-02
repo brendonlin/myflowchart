@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T06:14:00.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="NBYhW0I4czeigDUMvVI6" version="21.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-02T08:58:37.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="XOMzRer013eZtXYqszp3" version="21.7.1" type="github" pages="3">
   <diagram name="Probability" id="LZJyDBGYhkVnm9KzOlmo">
     <mxGraphModel dx="3692" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -421,7 +421,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dv-12Ai5unyeImAom6OI" name="Statistics">
-    <mxGraphModel dx="4361" dy="3173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5396" dy="3729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -815,6 +815,14 @@
         <mxCell id="7RziN6u2d7GNkKHuztn0-43" value="时间序列分析" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-2405" y="-1170" width="560" height="1000" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nkUXLY_2dx4wQLNEhQ3W" name="Chi-Statistics">
+    <mxGraphModel dx="996" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

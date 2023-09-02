@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T05:53:50.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="zad8p4gE4tiaZksClI6s" version="21.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-02T06:14:00.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="NBYhW0I4czeigDUMvVI6" version="21.7.1" type="github" pages="2">
   <diagram name="Probability" id="LZJyDBGYhkVnm9KzOlmo">
     <mxGraphModel dx="3692" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -777,6 +777,43 @@
         </mxCell>
         <mxCell id="7RziN6u2d7GNkKHuztn0-16" value="抽样方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1450" y="-225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7RziN6u2d7GNkKHuztn0-32" value="学科基础知识和价值认知" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1757" y="450" width="1167" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="7RziN6u2d7GNkKHuztn0-33" value="推断统计的价值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7RziN6u2d7GNkKHuztn0-34" value="描述统计的价值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7RziN6u2d7GNkKHuztn0-35" value="统计模型的价值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7RziN6u2d7GNkKHuztn0-36" value="统计学科历史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1630" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7RziN6u2d7GNkKHuztn0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7RziN6u2d7GNkKHuztn0-37" target="7RziN6u2d7GNkKHuztn0-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1420" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7RziN6u2d7GNkKHuztn0-37" value="统计数据的分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1485" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7RziN6u2d7GNkKHuztn0-38" value="统计学科特点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7RziN6u2d7GNkKHuztn0-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7RziN6u2d7GNkKHuztn0-41" target="7RziN6u2d7GNkKHuztn0-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7RziN6u2d7GNkKHuztn0-41" value="统计研究方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7RziN6u2d7GNkKHuztn0-43" value="时间序列分析" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-2405" y="-1170" width="560" height="1000" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T13:18:09.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="R2777zCIVNn9pUDwk4rl" version="21.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-02T14:04:28.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="ZdpJ_vbyrQK-hUx8gGcH" version="21.7.1" type="github" pages="4">
   <diagram name="Probability" id="LZJyDBGYhkVnm9KzOlmo">
     <mxGraphModel dx="3692" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -421,7 +421,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dv-12Ai5unyeImAom6OI" name="Statistics">
-    <mxGraphModel dx="3795" dy="2869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4082" dy="3023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,7 +429,7 @@
           <mxGeometry x="-1760" y="-260" width="680" height="370" as="geometry" />
         </mxCell>
         <mxCell id="7RziN6u2d7GNkKHuztn0-6" value="应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-1425" width="630" height="1795" as="geometry" />
+          <mxGeometry x="30" y="-1425" width="630" height="1985" as="geometry" />
         </mxCell>
         <mxCell id="7RziN6u2d7GNkKHuztn0-1" value="抽样分布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="-1040" y="-260" width="1020" height="630" as="geometry" />
@@ -901,6 +901,208 @@
             <mxPoint x="580" y="580" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lE7JfRfuM_gYs5cQ8cX2" name="Norm-Decision">
+    <mxGraphModel dx="1957" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-1" target="mVpuTEEMOMEdhKaX0yZ4-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-20" value="单个总体" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-5">
+          <mxGeometry x="-0.264" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-1" target="mVpuTEEMOMEdhKaX0yZ4-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-19" value="两个总体" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-15">
+          <mxGeometry x="-0.3422" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-1" value="是否单个总体" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-4" target="mVpuTEEMOMEdhKaX0yZ4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-21" value="均值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-7">
+          <mxGeometry x="-0.2225" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-4" target="mVpuTEEMOMEdhKaX0yZ4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-24" value="方差" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-13">
+          <mxGeometry x="-0.4029" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-4" value="均值还是方差" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-6" target="mVpuTEEMOMEdhKaX0yZ4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-22" value="总体方差已知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-9">
+          <mxGeometry x="-0.3075" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-6" target="mVpuTEEMOMEdhKaX0yZ4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-23" value="总体方差未知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-11">
+          <mxGeometry x="-0.3675" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-6" value="总体方差是否已知" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-8" value="z统计量 ~ N(0,1)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-10" value="t统计量 ~ t(n-1)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-12" value="标准卡方统计量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-14" target="mVpuTEEMOMEdhKaX0yZ4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-29" value="均值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-17">
+          <mxGeometry x="-0.1033" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-14" target="mVpuTEEMOMEdhKaX0yZ4-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-49" value="方差" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-45">
+          <mxGeometry x="-0.0044" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-14" value="均值还是方差" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-16" target="mVpuTEEMOMEdhKaX0yZ4-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-27" value="总体方差未知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-26">
+          <mxGeometry x="-0.27" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-16" target="mVpuTEEMOMEdhKaX0yZ4-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="430" />
+              <mxPoint y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-51" value="总体方差已知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-28">
+          <mxGeometry x="-0.9284" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-16" value="总体方差是否已知" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-25" target="mVpuTEEMOMEdhKaX0yZ4-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-32" value="总体方差不相等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-31">
+          <mxGeometry x="-0.31" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-25" target="mVpuTEEMOMEdhKaX0yZ4-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-37" value="总体方差相等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-36">
+          <mxGeometry x="-0.6637" y="2" relative="1" as="geometry">
+            <mxPoint x="-77" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-25" value="总体方差是否相等" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-30" target="mVpuTEEMOMEdhKaX0yZ4-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-35" value="样本数不相等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-34">
+          <mxGeometry x="-0.1556" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-30" target="mVpuTEEMOMEdhKaX0yZ4-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-52" value="样本数相等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-39">
+          <mxGeometry x="-0.0456" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-30" value="样本数是否相等" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-33" target="mVpuTEEMOMEdhKaX0yZ4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-33" value="近似的z统计量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-40" target="mVpuTEEMOMEdhKaX0yZ4-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-43" value="总体均值未知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-42">
+          <mxGeometry x="-0.4311" y="-1" relative="1" as="geometry">
+            <mxPoint y="44" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mVpuTEEMOMEdhKaX0yZ4-40" target="mVpuTEEMOMEdhKaX0yZ4-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-48" value="总体均值已知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVpuTEEMOMEdhKaX0yZ4-47">
+          <mxGeometry x="-0.0457" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-40" value="总体均值是否已知" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-46" value="新卡方统计量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVpuTEEMOMEdhKaX0yZ4-53" value="t统计量~t(n1+n2-2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

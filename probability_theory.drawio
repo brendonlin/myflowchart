@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T09:04:47.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="QiBPLkW3K1J7MtzxchE4" version="21.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-02T09:05:18.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="1V-lYp4W8tJjvZLye1fC" version="21.7.1" type="github" pages="3">
   <diagram name="Probability" id="LZJyDBGYhkVnm9KzOlmo">
     <mxGraphModel dx="3692" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -838,6 +838,9 @@
         <mxCell id="UjafFdoszn9Ckueamk8Y-2" value="协方差矩阵" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UjafFdoszn9Ckueamk8Y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjafFdoszn9Ckueamk8Y-4" target="UjafFdoszn9Ckueamk8Y-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UjafFdoszn9Ckueamk8Y-4" value="多维正态分布" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -858,9 +861,6 @@
         </mxCell>
         <mxCell id="UjafFdoszn9Ckueamk8Y-12" value="矩阵的正定性" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UjafFdoszn9Ckueamk8Y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjafFdoszn9Ckueamk8Y-15" target="UjafFdoszn9Ckueamk8Y-4">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjafFdoszn9Ckueamk8Y-15" value="相关系数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="120" width="120" height="60" as="geometry" />

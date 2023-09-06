@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T22:46:52.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="tFUf_Ao8E2hHpsXGLbXj" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T06:54:22.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="UDUbZnKAubck18empa3L" version="21.7.2" type="github">
   <diagram name="Page-1" id="2tTZSiHK8Q8oS2EFRTSw">
-    <mxGraphModel dx="2170" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1832" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,22 +202,22 @@
         <mxCell id="-4JPPDkWhVJN5cEuC3fu-26" value="继续当期主题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yoAP9GsgZ81yx0mfpFDf-1" value="录入新题型（如果有）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yoAP9GsgZ81yx0mfpFDf-1" value="录入新题型（如果有）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1450" y="200" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yoAP9GsgZ81yx0mfpFDf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yoAP9GsgZ81yx0mfpFDf-2" target="-4JPPDkWhVJN5cEuC3fu-7">
+        <mxCell id="yoAP9GsgZ81yx0mfpFDf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yoAP9GsgZ81yx0mfpFDf-2" target="-4JPPDkWhVJN5cEuC3fu-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yoAP9GsgZ81yx0mfpFDf-2" value="解法研究和题型学习" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="yoAP9GsgZ81yx0mfpFDf-2" value="解法研究和题型学习" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="680" y="110" width="430" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="yoAP9GsgZ81yx0mfpFDf-7" value="解法研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yoAP9GsgZ81yx0mfpFDf-7" value="解法研究" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="715" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yoAP9GsgZ81yx0mfpFDf-8" value="题型研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yoAP9GsgZ81yx0mfpFDf-8" value="题型研究" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yoAP9GsgZ81yx0mfpFDf-9" value="收集或是筛选题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yoAP9GsgZ81yx0mfpFDf-9" value="收集或是筛选题目" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827.5" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
